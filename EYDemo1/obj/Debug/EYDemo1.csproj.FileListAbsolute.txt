@@ -1,0 +1,11 @@
+C:\Users\labuser\source\repos\EYDemo1\EYDemo1\bin\Debug\EYDemo1.exe.config
+C:\Users\labuser\source\repos\EYDemo1\EYDemo1\bin\Debug\EYDemo1.exe
+C:\Users\labuser\source\repos\EYDemo1\EYDemo1\bin\Debug\EYDemo1.pdb
+C:\Users\labuser\source\repos\EYDemo1\EYDemo1\obj\Debug\EYDemo1.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\EYDemo1\EYDemo1\obj\Debug\EYDemo1.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\EYDemo1\EYDemo1\obj\Debug\EYDemo1.exe
+C:\Users\labuser\source\repos\EYDemo1\EYDemo1\obj\Debug\EYDemo1.pdb
+C:\Users\labuser\source\repos\EYDemo1\EYDemo1\bin\Debug\EYDemo1.exe.manifest
+C:\Users\labuser\source\repos\EYDemo1\EYDemo1\bin\Debug\EYDemo1.application
+C:\Users\labuser\source\repos\EYDemo1\EYDemo1\obj\Debug\EYDemo1.exe.manifest
+C:\Users\labuser\source\repos\EYDemo1\EYDemo1\obj\Debug\EYDemo1.application
